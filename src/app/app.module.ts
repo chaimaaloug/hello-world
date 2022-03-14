@@ -12,7 +12,7 @@ import {ChaimaLougsariModule} from './chaima-lougsari/chaima-lougsari.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule, ChaimaLougsariModule
   ],
   providers: [],
   bootstrap: [AppComponent]
